@@ -1,1 +1,1 @@
-* This is a Master Branch
+* This is a Master Branch (master)
