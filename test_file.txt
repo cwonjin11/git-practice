@@ -1,1 +1,2 @@
 test1: hi,  this is for a new branch test.
+test2: added text to this file from feature/test1 branch
