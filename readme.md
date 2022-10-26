@@ -1,1 +1,1 @@
-* This is a Main Branch
+* This is a Master Branch
